@@ -1,4 +1,3 @@
-# .github
 We're CANAXESS. We’re the go-to team for technical consulting on web and digital accessibility. We’re the web accessibility experts.
 
 From accessibility assessments and compliance reports to design reviews, accessibility pulse checks and increasing your teams’ capabilities with training and coaching. We help you at any stage on your accessibility journey.
